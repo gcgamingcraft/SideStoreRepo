@@ -7852,6 +7852,22 @@
       "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.optiflow.imposter.png"
     },
     {
+      "name": "OrangePhone",
+      "type": 1,
+      "bundleID": "com.orange.telephone",
+      "bundleIdentifier": "com.orange.telephone",
+      "version": "7.1.1",
+      "versionDate": "2026-05-18",
+      "fullDate": "20260518020044",
+      "size": 53001897,
+      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/18-05-2026/OrangePhone_7.1.1_Premium_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/18-05-2026/OrangePhone_7.1.1_Premium_%40thisismanpreets_apptesters.org.ipa",
+      "developerName": "",
+      "localizedDescription": "Injected with Premium",
+      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.orange.telephone.png",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.orange.telephone.png"
+    },
+    {
       "name": "Origami",
       "type": 1,
       "bundleID": "com.oribot.origami",
