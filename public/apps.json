@@ -2924,6 +2924,22 @@
       "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.calculated.laurene.png"
     },
     {
+      "name": "calimoto",
+      "type": 1,
+      "bundleID": "com.calimoto.calimoto",
+      "bundleIdentifier": "com.calimoto.calimoto",
+      "version": "7.20.0",
+      "versionDate": "2026-05-19",
+      "fullDate": "20260519170236",
+      "size": 101202709,
+      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/19-05-2026/calimoto_7.20.0_Premium_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/19-05-2026/calimoto_7.20.0_Premium_%40thisismanpreets_apptesters.org.ipa",
+      "developerName": "",
+      "localizedDescription": "Injected with Premium",
+      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.calimoto.calimoto.png",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.calimoto.calimoto.png"
+    },
+    {
       "name": "Thenx",
       "type": 1,
       "bundleID": "com.calisthenics.thenx",
