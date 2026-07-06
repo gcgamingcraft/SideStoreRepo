@@ -2940,6 +2940,22 @@
       "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.calculated.laurene.png"
     },
     {
+      "name": "Caliber",
+      "type": 1,
+      "bundleID": "com.caliberfitness.app",
+      "bundleIdentifier": "com.caliberfitness.app",
+      "version": "5.14.0",
+      "versionDate": "2026-07-07",
+      "fullDate": "20260707015019",
+      "size": 51668846,
+      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/07-07-2026/Caliber_5.14.0_Premium_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/07-07-2026/Caliber_5.14.0_Premium_%40thisismanpreets_apptesters.org.ipa",
+      "developerName": "",
+      "localizedDescription": "Injected with Premium",
+      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.caliberfitness.app.png",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.caliberfitness.app.png"
+    },
+    {
       "name": "calimoto",
       "type": 1,
       "bundleID": "com.calimoto.calimoto",
