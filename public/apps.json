@@ -5708,22 +5708,6 @@
       "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.internet-rocks.codescanner.png"
     },
     {
-      "name": "",
-      "type": 1,
-      "bundleID": "com.intsig.CamScannerLite",
-      "bundleIdentifier": "com.intsig.CamScannerLite",
-      "version": "7.21.5",
-      "versionDate": "2026-07-13",
-      "fullDate": "20260713102812",
-      "size": 206821268,
-      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/13-07-2026/_7.21.5_VIP_%40thisismanpreets_apptesters.org.ipa",
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/13-07-2026/_7.21.5_VIP_%40thisismanpreets_apptesters.org.ipa",
-      "developerName": "",
-      "localizedDescription": "Injected with VIP",
-      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.intsig.CamScannerLite.png",
-      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.intsig.CamScannerLite.png"
-    },
-    {
       "name": "INTVL",
       "type": 1,
       "bundleID": "com.intvl.app",
@@ -12202,6 +12186,22 @@
       "localizedDescription": "Injected with IAP",
       "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/tech.miidii.AlbumManager.png",
       "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/tech.miidii.AlbumManager.png"
+    },
+    {
+      "name": "",
+      "type": 1,
+      "bundleID": "tech.miidii.MDBlank",
+      "bundleIdentifier": "tech.miidii.MDBlank",
+      "version": "4.2.2",
+      "versionDate": "2026-07-15",
+      "fullDate": "20260715064614",
+      "size": 194040428,
+      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/15-07-2026/_4.2.2_Pro_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/15-07-2026/_4.2.2_Pro_%40thisismanpreets_apptesters.org.ipa",
+      "developerName": "",
+      "localizedDescription": "Injected with Pro",
+      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/tech.miidii.MDBlank.png",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/tech.miidii.MDBlank.png"
     },
     {
       "name": "MDClock",
