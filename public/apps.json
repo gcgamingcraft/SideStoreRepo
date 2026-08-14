@@ -1020,6 +1020,22 @@
       "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.AJNSNewMedia.KitchenStories.png"
     },
     {
+      "name": "",
+      "type": 1,
+      "bundleID": "com.AppChief.ArabicArt",
+      "bundleIdentifier": "com.AppChief.ArabicArt",
+      "version": "10.0.6",
+      "versionDate": "2026-08-14",
+      "fullDate": "20260814155224",
+      "size": 71927312,
+      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/14-08-2026/_10.0.6_Pro_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/14-08-2026/_10.0.6_Pro_%40thisismanpreets_apptesters.org.ipa",
+      "developerName": "",
+      "localizedDescription": "Injected with Pro",
+      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.AppChief.ArabicArt.png",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.AppChief.ArabicArt.png"
+    },
+    {
       "name": "CalculatorAir",
       "type": 1,
       "bundleID": "com.CalculatorForiPad.InternetRocks",
@@ -6714,22 +6730,6 @@
       "localizedDescription": "Injected with Subscription Unlocked",
       "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.macpaw.iosgemini.png",
       "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.macpaw.iosgemini.png"
-    },
-    {
-      "name": "",
-      "type": 1,
-      "bundleID": "com.madarsoft.fitness",
-      "bundleIdentifier": "com.madarsoft.fitness",
-      "version": "18.9",
-      "versionDate": "2026-08-13",
-      "fullDate": "20260813183619",
-      "size": 242464222,
-      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/13-08-2026/_18.9_Pro_%40thisismanpreets_apptesters.org.ipa",
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/13-08-2026/_18.9_Pro_%40thisismanpreets_apptesters.org.ipa",
-      "developerName": "",
-      "localizedDescription": "Injected with Pro",
-      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.madarsoft.fitness.png",
-      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.madarsoft.fitness.png"
     },
     {
       "name": "MADFUT",
